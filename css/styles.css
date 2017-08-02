@@ -1,0 +1,58 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #63cec2;
+
+}
+
+#mainCont {
+    background-color: rgba(67, 75, 89, 0.7);
+    display: block;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#userText, #passText {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 75%;
+    height: 15px;
+    border-radius: 30px;
+    border: 0px;
+    padding: 10px;
+}
+
+#btn {
+    font-family: 'Open Sans', sans-serif;
+    width: 80%;
+    background-color: #ccc;
+    border: 0px;
+    border-radius: 30px;
+    height: px;
+    color: #fff;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+#btn:hover {
+    background-color: #63cec2;
+}
+
+a:hover {
+    color: #63cec2;
+}
+
+#title {
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+    font-size: 30px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    text-transform: uppercase;
+    
+}
